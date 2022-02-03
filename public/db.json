@@ -1,0 +1,104 @@
+{
+    "burgers": [
+      {
+        "id": 0,
+        "imageUrl": "https://freepngimg.com/thumb/burger/2-2-burger-free-download-png.png",
+        "name": "Пепперони Фреш с перцем",
+        "types": [0, 1],
+        "sizes": ["S","L"],
+        "price": [3.50, 5.50],
+        "category": 0,
+        "rating": 4
+      },
+      {
+        "id": 1,
+        "imageUrl": "https://freepngimg.com/thumb/burger/5-2-burger-png.png",
+        "name": "Сырная",
+        "types": [0],
+        "sizes": ["M","L"],
+        "price": [5.0, 6.0],
+        "category": 1,
+        "rating": 6
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://freepngimg.com/thumb/burger/6-2-burger-png-image.png",
+        "name": "Цыпленок барбекю",
+        "types": [0],
+        "sizes": ["S","M","L"],
+        "price": [4.0, 5.0, 6.0],
+        "category": 1,
+        "rating": 4
+      },
+      {
+        "id": 3,
+        "imageUrl": "https://freepngimg.com/thumb/burger/8-2-burger-picture.png",
+        "name": "Кисло-сладкий цыпленок",
+        "types": [1],
+        "sizes": ["S","M","L"],
+        "price": [4.0, 5.0, 6.0],
+        "category": 2,
+        "rating": 2
+      },
+      {
+        "id": 4,
+        "imageUrl": "https://freepngimg.com/thumb/burger/22501-3-shack-burger.png",
+        "name": "Шак бургер",
+        "types": [0, 1],
+        "sizes": ["S","M","L"],
+        "price": [4.0, 5.0, 6.0],
+        "category": 3,
+        "rating": 8
+      },
+      {
+        "id": 5,
+        "imageUrl": "https://freepngimg.com/thumb/burger/7-2-burger-png-picture.png",
+        "name": "Крэйзи бургер",
+        "types": [0],
+        "sizes": ["S","M","L"],
+        "price": [4.0, 5.0, 6.0],
+        "category": 2,
+        "rating": 2
+      },
+      {
+        "id": 6,
+        "imageUrl": "https://freepngimg.com/thumb/burger/9-2-burger-png-hd.png",
+        "name": "Пепперони",
+        "types": [0, 1],
+        "sizes": ["S","M","L"],
+        "price": [4.0, 5.0, 6.0],
+        "category": 1,
+        "rating": 9
+      },
+      {
+        "id": 7,
+        "imageUrl": "https://freepngimg.com/thumb/burger/22198-9-burger-transparent.png",
+        "name": "Маргарита",
+        "types": [0, 1],
+        "sizes": ["S","M","L"],
+        "price": [4.0, 5.0, 6.0],
+        "category": 4,
+        "rating": 10
+      },
+      {
+        "id": 8,
+        "imageUrl": "https://freepngimg.com/thumb/burger/3-2-burger-free-png-image.png",
+        "name": "Четыре сезона",
+        "types": [0, 1],
+        "sizes": ["S","M","L"],
+        "price": [4.0, 5.0, 6.0],
+        "category": 5,
+        "rating": 10
+      },
+      {
+        "id": 9,
+        "imageUrl": "https://freepngimg.com/thumb/burger/4-2-burger-png-file.png",
+        "name": "Овощи и грибы 🌱",
+        "types": [0, 1],
+        "sizes": ["S","L"],
+        "price": [4.0, 5.0, 6.0],
+        "category": 5,
+        "rating": 7
+      }
+    ]
+  }
