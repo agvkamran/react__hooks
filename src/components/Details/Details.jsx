@@ -21,7 +21,7 @@ const Details = ({moreInfo, setMoreInfo}) => {
     const countSum = useMemo(() => sum(num), [num]);
 
     const api = async () => {
-        const data = await fetch('http://localhost:3000/db.json');
+        const data = await fetch('http://localhost:3000/db.json')
         const result = await data.json();
         setBurgers(result.burgers);
         return result;
